@@ -21,6 +21,7 @@ namespace PRUEBA
         {
             int n1;
             bool kekw;
+            string noenque;
         }
     }
 }
